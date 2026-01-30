@@ -3,12 +3,13 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: instagram
+  icon: "fa-brands fa-x-instagram"
+  url: https://www.instagram.com/stu.forge/
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"

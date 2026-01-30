@@ -14,6 +14,6 @@ If you’re curious about who’s behind all this and what kind of projects are 
 
 This is very much a hands-on blog. Expect schematics, code, CAD files, half-finished prototypes, and honest write-ups — not just polished end results.
 
-Let’s build things.
+Let’s build things...
 
 👉 Read more on the [About]({% link _tabs/about.md %}) page.

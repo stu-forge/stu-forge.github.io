@@ -38,4 +38,4 @@ Because the most interesting projects tend to happen right there — where mecha
 
 If that sounds like your kind of thing, you’re in the right place.
 
-![Desktop View](/assets/images/about_bg.png){: width="972" height="589" }
+![Desktop View](/assets/img/about_bg.png){: width="972" height="589" }

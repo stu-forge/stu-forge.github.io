@@ -7,7 +7,7 @@ tags:
   - ATtiny402 
   - CN5711 
 categories:
-  - Electronics Projects
+  - Digital Electronics Projects
 ---
 
 Every project needs a beginning. Not a polished, market-ready product, but a *version zero*: something real, working, and imperfect. CirmiTorch is exactly that.
@@ -78,6 +78,9 @@ The PCBs were milled on a CNC machine, not ordered from a board house. From the 
 
  There are **two separate boards**: one dedicated to the control electronics and another serving purely as the LED panel. Splitting the design this way made iteration easier and allowed each board to be optimised for its specific role.
 
+ ![Desktop View](/assets/img/post/cirmi-torch/pcb.jpg){: width="6016" height="4010" .w-75}
+_The controller PCB of the flashlight._
+
 The firmware is fully open source and available on GitHub, along with **all other project resources**. This includes:
 
 * the complete firmware source code
@@ -107,3 +110,6 @@ But none of that would exist without this first step.
 Version zero matters. Without it, there is nothing to improve.
 
 This is CirmiTorch 0.0.
+
+![Desktop View](/assets/img/post/cirmi-torch/pcb2.jpg){: width="6016" height="4010" .w-75}
+_The led panel PCB of the flashlight._

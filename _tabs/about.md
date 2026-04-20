@@ -4,38 +4,29 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I build things — both in software and in the physical world.
+# The Creative Power of Thought
 
-My work and personal projects live at the intersection of electronics, mechanics, and code. I design and manufacture my own printed circuit boards, develop embedded systems from scratch, and write the firmware and software that bring them to life. From concept to finished device, I enjoy understanding and controlling the entire process.
 
-On this site you’ll find projects such as:
+I first experienced the magic of creation when I was about seven years old — that incredible feeling when the right skills and tools meet creativity to turn imagination into reality.
+My journey began with a wooden chicken coop that my father and I built together. At the time, I didn't fully understand the process or the technical reasons behind it, but that didn't stop me. Under my father’s guidance, I used a drill and a jigsaw for the first time. That experience left a lasting impression; it was the moment when the 'creative power of thought' was truly etched into my mind.
 
-*   **Custom PCBs** - Designed, manufactured, and assembled for specific purposes — often tightly integrated with custom firmware and enclosures.
-    
-*   **Embedded systems development** - Hardware design, low-level programming, and system-level thinking to create reliable, purpose-built devices.
-    
-*   **Instrument and tool design** - Measuring instruments, test equipment, and practical workshop tools designed to solve real problems.
-    
-*   **3D printing and product design** - Designing and manufacturing tools, enclosures, and everyday objects — functional first, but clean and considered.
-    
-*   **Metalworking and machining** - Turning, milling, and general metal fabrication. This also includes building machines themselves, such as CNC mills or even larger projects like injection moulding machines.
-    
-*   **Machine building** - From mechanical design to electronics and control systems — complete machines built from the ground up.
-    
-*   **Software development** - Tools, utilities, and custom software that supports hardware projects or stands on its own.
-    
-*   **IoT and Home Assistant** - Designing and building IoT devices, integrating them with Home Assistant, and creating systems that are reliable, local-first, and actually useful.
-    
-*   **Servers and networking** - Running and maintaining servers, experimenting with infrastructure ideas, and configuring network equipment for real-world use.
-    
+Even before that, I had already been exposed to influences that set me on this path. My father worked in industrial automation and showed me photos of the control systems and cabinets they had built, as well as the complete production lines they had fine-tuned and commissioned. He had countless components at home, and we often played with them together, connecting them in simple configurations. I still remember how he demonstrated how a time relay or a VFD worked, and how fascinating it was to adjust a dial and watch the motor change speed.
 
-This blog is not about chasing trends or quick hacks. It’s about understanding how things work, building them properly, and learning by doing — even when that means mistakes, revisions, and redesigns.
+I must have been around two or three years old at the time. Naturally, I tried to recreate these wonders in my own way. I connected toy cars with wires as if they were electrically linked and built entire production lines out of modelling clay, making sure that everything was 'wired' together using clay. Later on, I learned how to assemble an extension cord and eventually wired and installed my first wall socket with my father’s help.
 
-There’s a reason the motto stuck: <br>
-**Where metal meets microchips.**
+From childhood to the present day, much of my life has revolved around construction and home improvement. Together with my father, I carried out a wide range of projects. I had the opportunity to work with wood, construct lightweight structures, pour concrete, lay bricks and tiles, and apply plaster and paint. We also welded tables and other steel structures, installed plumbing systems and constructed fairly complex electrical networks. This is only a brief summary.
+As the years passed, I began to understand not just how things are done, but also the reasons behind them. I actively participated in everything, gaining hands-on experience both at home and while helping relatives, friends and anyone else who needed assistance.
 
-Because the most interesting projects tend to happen right there — where mechanical parts, electronics, and software all have to work together as one.
+Over time, metalworking also became a significant interest of mine. I learnt how to work with various materials and types of steel, and how to drill, cut, mill and turn them with a lathe.
+Alongside all this, I started working with electronics in 2018. My father had built PCBs in his youth, so I was already familiar with the field, but it was at this point that I started to take it seriously. My first project was a simple laboratory power supply made from an old computer PSU. I remember being incredibly proud of it, even though it was quite basic. That project sparked something in me.
 
-If that sounds like your kind of thing, you’re in the right place.
+Since then, I have continuously worked on designing circuit schematics, developing PCBs, building instruments and machines, and programming embedded systems.
+Alongside this practical experience, I studied IT at school, and I now work in the field. This has given me a deep understanding of computing, whether it's programming or networking.
 
-![Desktop View](/assets/img/about_bg.png){: width="972" height="589" }
+Nowadays, there's hardly a task I wouldn't tackle alone. This could be a simple household repair, such as replacing a light switch or tap, or something far more complex, like constructing a roof structure for a new home. I can work on a project from the initial idea to the final assembly. Concept, design, manufacturing and assembly. I can bring to life anything I can imagine, whether it’s a practical item, a tool, or an instrument.
+
+This way of working has also shaped the way I see the world. Over time, I’ve developed a natural curiosity about how things function beneath the surface, whether it's the structure of a building, the systems behind everyday infrastructure or the devices we use daily. Understanding these connections brings a certain clarity, and with it, a sense of confidence and independence.
+
+For me, learning has never really had a finish line. I’m constantly looking for new challenges and opportunities to expand my knowledge while continuing to build and create. Over the years, creation itself has truly become a defining part of who I am — it has become my passion.
+
+![banner](/assets/img/banner.jpg){: width="3000" height="1954" }
